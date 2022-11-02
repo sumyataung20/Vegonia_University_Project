@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "Vegonia University",
+		"path": "."
+	},
+	{
+		"name": "img",
+		"path": "../BCJ2/img"
+	},
+	{
+		"name": "LIBS",
+		"path": "../BCJ2/LIBS"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Vegonia University"
+  }
+}
